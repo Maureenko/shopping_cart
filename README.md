@@ -1,2 +1,37 @@
-# shopping_cart
-A mock shopping cart application that demonstrates  concepts such as routing with React Router, state management, API integration, and component-driven architecture. Users can browse products fetched from an external API, add items to a cart, update quantities in real time, and navigate seamlessly between pages in a single-page application.
+# 🛒 React Shopping Cart
+
+A modern mock shopping cart built with React. This project demonstrates routing, state management, API integration, and testing in a single-page application.
+
+---
+
+## 🚀 Features
+
+- 🏠 Home page with basic introduction/content
+- 🛍️ Shop page with products fetched from an external API
+- ➕ Add to cart with adjustable quantities
+- 🔄 Increment/decrement item count
+- 🧮 Real-time cart updates in the navbar
+- 🛒 Cart page with editable quantities and item removal
+- 🔀 Client-side routing using React Router
+- ✅ Tested with React Testing Library
+
+---
+
+## 🧱 Tech Stack
+
+- React
+- Vite
+- React Router
+- JavaScript (ES6+)
+- CSS
+- React Testing Library
+
+---
+
+## 📦 Installation
+
+Clone the repo:
+
+```bash
+git clone https://github.com/your-username/your-repo.git
+cd your-repo
